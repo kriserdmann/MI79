@@ -64,7 +64,7 @@ R15: [RESPOSTA A SER PREENCHIDA]
 ---
 
 P16: O que é o Product Backlog?
-R16: [RESPOSTA A SER PREENCHIDA]
+R16: O Product Backlog é uma lista priorizada de funcionalidades e tarefas a serem feitas no produto. É mantido pelo Product Owner e atualizado regularmente. Itens são trabalhados durante os Sprints, com foco na entrega de valor contínuo.
 
 P17: O que é o Sprint Backlog?
 R17: [RESPOSTA A SER PREENCHIDA]
