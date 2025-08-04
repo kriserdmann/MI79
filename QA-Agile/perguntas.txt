@@ -70,7 +70,7 @@ P17: O que é o Sprint Backlog?
 R17: [RESPOSTA A SER PREENCHIDA]
 
 P18: O que é o "Incremento do Produto"?
-R18: [RESPOSTA A SER PREENCHIDA]
+R18: É o resultado de um trabalho feito por uma equipe ao final de uma sprint, sendo assim mostrando um passo a frente dado para o trabalho.
 
 P19: O que é a "Definition of Done" (Definição de Pronto)?
 R19: [RESPOSTA A SER PREENCHIDA]
