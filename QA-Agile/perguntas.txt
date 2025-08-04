@@ -133,7 +133,7 @@ P32: O que "Lead Time" mede?
 R32: [RESPOSTA A SER PREENCHIDA]
 
 P33: O que "Cycle Time" mede?
-R33: [RESPOSTA A SER PREENCHIDA]
+R33: O Cycle Time, ou Tempo de Ciclo, mede o tempo que leva para concluir uma tarefa ou ciclo de trabalho, desde o momento em que ele começa até o momento em que é finalizado.
 
 P34: Qual a diferença entre Lead Time e Cycle Time?
 R34: O lead time é o tempo total desde a solicitação de um item até sua entrega, enquanto o tempo de ciclo é o tempo gasto no ciclo.
