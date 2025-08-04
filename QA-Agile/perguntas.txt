@@ -59,10 +59,10 @@ P11: O que significa "Sprint" no contexto do Scrum?
 R11: Um sprint é um período curto e fixo em que uma equipe scrum trabalha para concluir uma quantidade definida de trabalho.
 
 P12: Qual o objetivo da Daily Scrum (reunião diária)?
-R12: [RESPOSTA A SER PREENCHIDA]
+R12: O objetivo da Daily Scrum é permitir que o time sincronize suas atividades, compartilhe o progresso desde o último encontro, identifique obstáculos e planeje o trabalho até a próxima reunião, promovendo transparência e colaboração.
 
 P13: O que acontece na Sprint Review (Revisão da Sprint)?
-R13: [RESPOSTA A SER PREENCHIDA]
+R13: Na Sprint Review, o time apresenta o que foi desenvolvido durante a Sprint para os stakeholders, obtém feedback e colabora na adaptação do Product Backlog, garantindo que o produto esteja sempre alinhado às necessidades do cliente.
 
 P14: Para que serve a Sprint Retrospective (Retrospectiva da Sprint)?
 R14: A Sprint Retrospective serve para que o time inspecione como foi o trabalho durante a Sprint e identifique formas de melhorar o processo. É um momento de reflexão em que a equipe avalia o que funcionou bem, o que não funcionou e como pode se tornar mais eficaz na próxima Sprint.
@@ -84,10 +84,12 @@ P18: O que é o "Incremento do Produto"?
 R18: É o resultado de um trabalho feito por uma equipe ao final de uma sprint, sendo assim mostrando um passo a frente dado para o trabalho.
 
 P19: O que é a "Definition of Done" (Definição de Pronto)?
-R19: [RESPOSTA A SER PREENCHIDA]
+R19: A Definition of Done é um conjunto de critérios que uma entrega precisa atender para ser considerada completa. Ela garante que o item está pronto para ser entregue, com qualidade, testado e integrado ao produto.
 
 P20: O que é uma "User Story" (História de Usuário)?
-R20: [RESPOSTA A SER PREENCHIDA]
+R20: Uma User Story é uma descrição simples de uma funcionalidade do ponto de vista do usuário. Ela geralmente segue o formato:
+“Como [tipo de usuário], eu quero [ação] para [benefício].”
+Exemplo: “Como cliente, quero acompanhar meu pedido para saber quando ele será entregue.”
 
 ---
 ### Bloco 05: Kanban
@@ -121,8 +123,7 @@ R27: É uma técnica usada no XP onde dois desenvolvedores usam a mesma máquina
 
 P28: O que é "Continuous Integration" (Integração Contínua - CI)?
 R28: A Integração Contínua (Continuous Integration - CI) é uma prática de desenvolvimento de software onde os desenvolvedores integram seu código em um repositório central com frequência, geralmente várias vezes ao dia.
-R28: é uma pratica de desenvolvedores que consiste em trabalhar em um repositorio compartilhado com toda a equipe
-a,k
+
 P29: O que é "Refactoring" (Refatoração)?
 R29: A refatoração de código é uma prática de desenvolvimento de software que altera a estrutura interna do código sem modificar seu comportamento externo ou afetar suas funções. Essas pequenas alterações visam tornar o código mais legível e sustentável.
 
@@ -134,10 +135,10 @@ R30: Um gráfico burndown é uma ferramenta visual utilizada em metodologias ág
 ---
 
 P31: O que é "Velocity" (Velocidade) de uma equipe?
-R31: [RESPOSTA A SER PREENCHIDA]
-
+R31: Velocidade em termos ágeis significa a quantidade média de trabalho que uma equipe pode completar em um ciclo de entrega.
 P32: O que "Lead Time" mede?
-R32: [RESPOSTA A SER PREENCHIDA]
+R32: Mede o tempo total entre o início de um processo e sua conclusão, ou seja, o tempo que leva para um produto ou serviço ser entregue ao cliente, desde o momento do pedido até a entrega final.
+
 
 P33: O que "Cycle Time" mede?
 R33: O Cycle Time, ou Tempo de Ciclo, mede o tempo que leva para concluir uma tarefa ou ciclo de trabalho, desde o momento em que ele começa até o momento em que é finalizado.
@@ -162,7 +163,7 @@ P38: Qual a relação entre a filosofia Lean e o conceito de "desperdício"?
 R38: [RESPOSTA A SER PREENCHIDA]
 
 P39: O que é o ciclo "Construir-Medir-Aprender"?
-R39: [RESPOSTA A SER PREENCHIDA]
+R39: É uma abordagem iterativa e fundamental na metodologia Lean Startup, onde startups e empresas buscam validar suas ideias e produtos de forma rápida e eficiente.
 
 P40: Um protótipo é a mesma coisa que um MVP?
 R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento. 
