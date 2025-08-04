@@ -7,7 +7,7 @@ Instruções: Preencha o campo [RESPOSTA A SER PREENCHIDA] para cada pergunta qu
 ---
 
 P01: O que é o Manifesto Ágil?
-R01: [RESPOSTA A SER PREENCHIDA]
+R01: O Manifesto Ágil é um conjunto de valores e princípios criado em 2001 por desenvolvedores de software para melhorar a forma como projetos são gerenciados e entregues.
 
 P02: Quantos valores principais o Manifesto Ágil possui?
 R02: O Manifesto Ágil Possui 4 valores principais:
@@ -157,7 +157,7 @@ P36: O que significa a sigla MVP?
 R36: MVP significa Produto Mínimo Viável. Refere-se à versão mais simples de um produto, com as funcionalidades essenciais para validar hipóteses com os usuários. O objetivo é testar o mercado e coletar feedback antes de expandir o desenvolvimento.
 
 P37: Qual o principal objetivo de construir um MVP?
-R37: [RESPOSTA A SER PREENCHIDA]
+R37: Validar a viabilidade de uma ideia de produto com o menor investimento possível, testando-a com usuários reais antes de desenvolver a versão completa.
 
 P38: Qual a relação entre a filosofia Lean e o conceito de "desperdício"?
 R38: A filosofia Lean busca a máxima eficiência e valor para o cliente através da identificação e eliminação contínua de desperdícios, que são todas as atividades ou recursos que não agregam valor ao produto ou serviço final. O objetivo é criar processos enxutos, ágeis e de alta qualidade.
