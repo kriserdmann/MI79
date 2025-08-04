@@ -17,31 +17,36 @@ Colaboração com o cliente mais que negociação de contratos,
 Responder a mudanças mais que seguir um plano;
 
 P03: Cite um dos quatro valores do Manifesto Ágil.
-R03: No Manifesto Ágil temos o valor "Software em funcionamento mais que documentação abrangente" 
-Que significa que o código em funcionamneto é mais importante que
-uma documentação muito detalhada
+R03: Indivíduos e interações mais que processos e ferramentas.
+
+(*Outros valores também aceitáveis:
+
+Software em funcionamento mais que documentação abrangente;
+
+Colaboração com o cliente mais que negociação de contratos;
+
+Responder a mudanças mais que seguir um plano.*)
 
 P04: Qual o principal benefício de entregar software funcional com frequência?
-R04: [RESPOSTA A SER PREENCHIDA]
+R04: Permite obter feedback rápido dos usuários, adaptar o produto às necessidades reais e reduzir riscos ao longo do projeto.
 
 P05: Agile é uma metodologia ou uma mentalidade (mindset)?
-R05: [RESPOSTA A SER PREENCHIDA]
-
+R05: Agile é uma mentalidade (mindset) que valoriza colaboração, adaptação e entrega contínua de valor. Ela pode ser aplicada por meio de várias metodologias, como Scrum ou Kanban.
 ---
 ### Bloco 02: Scrum - Papéis
 ---
 
 P06: Qual é o papel do Product Owner (PO) no Scrum?
-R06: [RESPOSTA A SER PREENCHIDA]
+R06: Maximizar o valor do projeto e comunicar-se com os stakeholders
 
 P07: Qual é a principal função do Scrum Master?
 R07: Organizar a equipe para que o método Scrum seja executado de maneira satisfatória
 
 P08: Quem forma o Time de Desenvolvimento (Dev Team)?
-R08: [RESPOSTA A SER PREENCHIDA]
+R08: [Desenvolvedor Front-end, Desenvolvedor Back-end, Designer UX/UI, QA/Tester, DevOps, Arquiteto de Software, Mobile Developer]
 
 P09: Quem são os "stakeholders" de um projeto?
-R09: [RESPOSTA A SER PREENCHIDA]
+R09: [São todas as pessoas ou entidades que têm interesse, impacto ou são impactadas por um projeto, produto ou empresa.]
 
 P10: O Scrum Master é o "chefe" da equipe?
 R10: Não, facilita o processo, remove obstáculos e orienta a equipe, mas não tem autoridade sobre as decisões ou tarefas da equipe.
@@ -89,7 +94,7 @@ R20: [RESPOSTA A SER PREENCHIDA]
 ---
 
 P21: O que é um quadro Kanban?
-R21: [RESPOSTA A SER PREENCHIDA]
+R21: Um quadro Kanban é uma ferramenta visual usada para gerenciar projetos e fluxos de trabalho, permitindo que equipes visualizem o trabalho, limitem o trabalho em andamento e otimizem a eficiência.
 
 P22: Qual o objetivo de um quadro Kanban?
 R22: O objetivo é ajudar uma equipe a gerenciar suas tarefas, de forma eficaz e que o trabalho flua suavemente do inicio ao fim.
@@ -98,7 +103,7 @@ P23: O que significa a sigla WIP em um quadro Kanban?
 R23: A sigla WIP significa "Work In Progress" (Trabalho em Andamento)
 
 P24: Por que é importante limitar o WIP (Trabalho em Progresso)?
-R24:  Limitar o WIP evita sobrecarga, melhora o foco da equipe e ajuda a manter um fluxo de trabalho mais eficiente.
+R24: Para facilitar a identificação de ineficiências no fluxo de trabalho de uma equipe
 
 P25: Kanban possui papéis definidos como o Scrum?
 R25: Não, o Kanban não define papéis fixos como o Scrum. Ele é mais flexível e pode ser adaptado à equipe.
@@ -108,16 +113,18 @@ R25: Não, o Kanban não define papéis fixos como o Scrum. Ele é mais flexíve
 ---
 
 P26: O que é Extreme Programming (XP)?
-R26: [RESPOSTA A SER PREENCHIDA]
+R26: É um método que auxilia no desenvolvimento de códigos, consiste em 2 desenvolvedores estarem no mesmo computador ao mesmo tempo
+conferindo o código e tentando evitar erros e auxiliar na questão de lógica
 
 P27: O que é a prática de "Pair Programming" (Programação em Par)?
 R27: É uma técnica usada no XP onde dois desenvolvedores usam a mesma máquina, em que um programa e o outro revisa o código
 
 P28: O que é "Continuous Integration" (Integração Contínua - CI)?
+R28: A Integração Contínua (Continuous Integration - CI) é uma prática de desenvolvimento de software onde os desenvolvedores integram seu código em um repositório central com frequência, geralmente várias vezes ao dia.
 R28: é uma pratica de desenvolvedores que consiste em trabalhar em um repositorio compartilhado com toda a equipe
 a,k
 P29: O que é "Refactoring" (Refatoração)?
-R29: [RESPOSTA A SER PREENCHIDA]
+R29: A refatoração de código é uma prática de desenvolvimento de software que altera a estrutura interna do código sem modificar seu comportamento externo ou afetar suas funções. Essas pequenas alterações visam tornar o código mais legível e sustentável.
 
 P30: O que é um "burndown chart"?
 R30: Um gráfico burndown é uma ferramenta visual utilizada em metodologias ágeis, como o Scrum, para acompanhar o progresso de um projeto ou sprint em relação ao tempo. 
@@ -195,7 +202,7 @@ ao invés de uma solução mais correta e sustentável a longo prazo.
 P48: O que é "Planning Poker"?
 R48: Planning Poker é uma técnica divertida e colaborativa usada por equipes ágeis 
 (como em Scrum) para estimar o esforço ou complexidade de tarefas, geralmente durante 
-o planejamento de uma sprint.
+o planejamento de uma sprint
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
 R49: [RESPOSTA A SER PREENCHIDA]
