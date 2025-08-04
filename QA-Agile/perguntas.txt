@@ -90,7 +90,7 @@ P21: O que é um quadro Kanban?
 R21: É uma ferramenta visual usada para gerenciar projetos e fluxos de trabalho, permitindo que equipes visualizem o trabalho.
 
 P22: Qual o objetivo de um quadro Kanban?
-R22: [RESPOSTA A SER PREENCHIDA]
+R22: Visualizar o fluxo de trabalho, limitar o trabalho em andamento (WIP) e melhorar a eficiência e o fluxo de entrega. 
 
 P23: O que significa a sigla WIP em um quadro Kanban?
 R23: [RESPOSTA A SER PREENCHIDA]
