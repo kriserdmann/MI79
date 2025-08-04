@@ -38,10 +38,10 @@ P07: Qual é a principal função do Scrum Master?
 R07: Organizar a equipe para que o método Scrum seja executado de maneira satisfatória
 
 P08: Quem forma o Time de Desenvolvimento (Dev Team)?
-R08: [RESPOSTA A SER PREENCHIDA]
+R08: [Desenvolvedor Front-end, Desenvolvedor Back-end, Designer UX/UI, QA/Tester, DevOps, Arquiteto de Software, Mobile Developer]
 
 P09: Quem são os "stakeholders" de um projeto?
-R09: [RESPOSTA A SER PREENCHIDA]
+R09: [São todas as pessoas ou entidades que têm interesse, impacto ou são impactadas por um projeto, produto ou empresa.]
 
 P10: O Scrum Master é o "chefe" da equipe?
 R10: Não, facilita o processo, remove obstáculos e orienta a equipe, mas não tem autoridade sobre as decisões ou tarefas da equipe.
@@ -196,7 +196,7 @@ ao invés de uma solução mais correta e sustentável a longo prazo.
 P48: O que é "Planning Poker"?
 R48: Planning Poker é uma técnica divertida e colaborativa usada por equipes ágeis 
 (como em Scrum) para estimar o esforço ou complexidade de tarefas, geralmente durante 
-o planejamento de uma sprint.
+o planejamento de uma sprint
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
 R49: [RESPOSTA A SER PREENCHIDA]
