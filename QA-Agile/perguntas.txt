@@ -169,7 +169,8 @@ R41: Um Agile Coach é um profissional que orienta equipes e organizações na a
 
 
 P42: O que é "Business Agility"?
-R42: [RESPOSTA A SER PREENCHIDA]
+R42: Business Agility é a capacidade de uma organização se adaptar rapidamente a mudanças e incertezas, aplicando práticas ágeis em todas as áreas para melhorar a eficiência e a inovação.
+
 
 P43: Cite um framework para escalar o ágil para múltiplos times (ex: SAFe, LeSS).
 R43: [RESPOSTA A SER PREENCHIDA]
