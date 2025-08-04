@@ -1,0 +1,193 @@
+# Q&A Rápido: Metodologias Ágeis
+
+Instruções: Preencha o campo [RESPOSTA A SER PREENCHIDA] para cada pergunta que você reivindicou.
+
+---
+### Bloco 01: Manifesto e Conceitos Gerais
+---
+
+P01: O que é o Manifesto Ágil?
+R01: [RESPOSTA A SER PREENCHIDA]
+
+P02: Quantos valores principais o Manifesto Ágil possui?
+R02: [RESPOSTA A SER PREENCHIDA]
+
+P03: Cite um dos quatro valores do Manifesto Ágil.
+R03: [RESPOSTA A SER PREENCHIDA]
+
+P04: Qual o principal benefício de entregar software funcional com frequência?
+R04: [RESPOSTA A SER PREENCHIDA]
+
+P05: Agile é uma metodologia ou uma mentalidade (mindset)?
+R05: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 02: Scrum - Papéis
+---
+
+P06: Qual é o papel do Product Owner (PO) no Scrum?
+R06: [RESPOSTA A SER PREENCHIDA]
+
+P07: Qual é a principal função do Scrum Master?
+R07: [RESPOSTA A SER PREENCHIDA]
+
+P08: Quem forma o Time de Desenvolvimento (Dev Team)?
+R08: [RESPOSTA A SER PREENCHIDA]
+
+P09: Quem são os "stakeholders" de um projeto?
+R09: [RESPOSTA A SER PREENCHIDA]
+
+P10: O Scrum Master é o "chefe" da equipe?
+R10: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 03: Scrum - Eventos
+---
+
+P11: O que significa "Sprint" no contexto do Scrum?
+R11: [RESPOSTA A SER PREENCHIDA]
+
+P12: Qual o objetivo da Daily Scrum (reunião diária)?
+R12: [RESPOSTA A SER PREENCHIDA]
+
+P13: O que acontece na Sprint Review (Revisão da Sprint)?
+R13: [RESPOSTA A SER PREENCHIDA]
+
+P14: Para que serve a Sprint Retrospective (Retrospectiva da Sprint)?
+R14: [RESPOSTA A SER PREENCHIDA]
+
+P15: Qual evento é usado para planejar o trabalho da Sprint?
+R15: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 04: Scrum - Artefatos
+---
+
+P16: O que é o Product Backlog?
+R16: [RESPOSTA A SER PREENCHIDA]
+
+P17: O que é o Sprint Backlog?
+R17: [RESPOSTA A SER PREENCHIDA]
+
+P18: O que é o "Incremento do Produto"?
+R18: [RESPOSTA A SER PREENCHIDA]
+
+P19: O que é a "Definition of Done" (Definição de Pronto)?
+R19: [RESPOSTA A SER PREENCHIDA]
+
+P20: O que é uma "User Story" (História de Usuário)?
+R20: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 05: Kanban
+---
+
+P21: O que é um quadro Kanban?
+R21: [RESPOSTA A SER PREENCHIDA]
+
+P22: Qual o objetivo de um quadro Kanban?
+R22: [RESPOSTA A SER PREENCHIDA]
+
+P23: O que significa a sigla WIP em um quadro Kanban?
+R23: [RESPOSTA A SER PREENCHIDA]
+
+P24: Por que é importante limitar o WIP (Trabalho em Progresso)?
+R24: [RESPOSTA A SER PREENCHIDA]
+
+P25: Kanban possui papéis definidos como o Scrum?
+R25: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 06: XP e Práticas Técnicas
+---
+
+P26: O que é Extreme Programming (XP)?
+R26: [RESPOSTA A SER PREENCHIDA]
+
+P27: O que é a prática de "Pair Programming" (Programação em Par)?
+R27: [RESPOSTA A SER PREENCHIDA]
+
+P28: O que é "Continuous Integration" (Integração Contínua - CI)?
+R28: [RESPOSTA A SER PREENCHIDA]
+
+P29: O que é "Refactoring" (Refatoração)?
+R29: [RESPOSTA A SER PREENCHIDA]
+
+P30: O que é um "burndown chart"?
+R30: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 07: Métricas Ágeis
+---
+
+P31: O que é "Velocity" (Velocidade) de uma equipe?
+R31: [RESPOSTA A SER PREENCHIDA]
+
+P32: O que "Lead Time" mede?
+R32: [RESPOSTA A SER PREENCHIDA]
+
+P33: O que "Cycle Time" mede?
+R33: [RESPOSTA A SER PREENCHIDA]
+
+P34: Qual a diferença entre Lead Time e Cycle Time?
+R34: [RESPOSTA A SER PREENCHIDA]
+
+P35: O que é um CFD (Cumulative Flow Diagram)?
+R35: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 08: Lean e MVP
+---
+
+P36: O que significa a sigla MVP?
+R36: [RESPOSTA A SER PREENCHIDA]
+
+P37: Qual o principal objetivo de construir um MVP?
+R37: [RESPOSTA A SER PREENCHIDA]
+
+P38: Qual a relação entre a filosofia Lean e o conceito de "desperdício"?
+R38: [RESPOSTA A SER PREENCHIDA]
+
+P39: O que é o ciclo "Construir-Medir-Aprender"?
+R39: [RESPOSTA A SER PREENCHIDA]
+
+P40: Um protótipo é a mesma coisa que um MVP?
+R40: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 09: Cultura e Escalabilidade
+---
+
+P41: O que é "Agile Coach"?
+R41: [RESPOSTA A SER PREENCHIDA]
+
+P42: O que é "Business Agility"?
+R42: [RESPOSTA A SER PREENCHIDA]
+
+P43: Cite um framework para escalar o ágil para múltiplos times (ex: SAFe, LeSS).
+R43: [RESPOSTA A SER PREENCHIDA]
+
+P44: O que é "segurança psicológica" em um time ágil?
+R44: [RESPOSTA A SER PREENCHIDA]
+
+P45: Por que a colaboração com o cliente é um valor fundamental do ágil?
+R45: [RESPOSTA A SER PREENCHIDA]
+
+---
+### Bloco 10: Tópicos Avançados
+---
+
+P46: O que são "Spikes" em um backlog?
+R46: [RESPOSTA A SER PREENCHIDA]
+
+P47: O que é "Dívida Técnica" (Technical Debt)?
+R47: [RESPOSTA A SER PREENCHIDA]
+
+P48: O que é "Planning Poker"?
+R48: [RESPOSTA A SER PREENCHIDA]
+
+P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
+R49: [RESPOSTA A SER PREENCHIDA]
+
+P50: O que é "TDD" (Test-Driven Development)?
+R50: [RESPOSTA A SER PREENCHIDA]
