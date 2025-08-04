@@ -10,7 +10,11 @@ P01: O que é o Manifesto Ágil?
 R01: [RESPOSTA A SER PREENCHIDA]
 
 P02: Quantos valores principais o Manifesto Ágil possui?
-R02: [RESPOSTA A SER PREENCHIDA]
+R02: O Manifesto Ágil Possui 4 valores principais:
+Indivíduos e interações mais que processos e ferramentas,
+Software em funcionamento mais que documentação abrangente,
+Colaboração com o cliente mais que negociação de contratos,
+Responder a mudanças mais que seguir um plano;
 
 P03: Cite um dos quatro valores do Manifesto Ágil.
 R03: [RESPOSTA A SER PREENCHIDA]
@@ -29,7 +33,7 @@ P06: Qual é o papel do Product Owner (PO) no Scrum?
 R06: [RESPOSTA A SER PREENCHIDA]
 
 P07: Qual é a principal função do Scrum Master?
-R07: [RESPOSTA A SER PREENCHIDA]
+R07: Organizar a equipe para que o método Scrum seja executado de maneira satisfatória
 
 P08: Quem forma o Time de Desenvolvimento (Dev Team)?
 R08: [RESPOSTA A SER PREENCHIDA]
@@ -54,23 +58,23 @@ P13: O que acontece na Sprint Review (Revisão da Sprint)?
 R13: [RESPOSTA A SER PREENCHIDA]
 
 P14: Para que serve a Sprint Retrospective (Retrospectiva da Sprint)?
-R14: [RESPOSTA A SER PREENCHIDA]
+R14: A Sprint Retrospective serve para que o time inspecione como foi o trabalho durante a Sprint e identifique formas de melhorar o processo. É um momento de reflexão em que a equipe avalia o que funcionou bem, o que não funcionou e como pode se tornar mais eficaz na próxima Sprint.
 
 P15: Qual evento é usado para planejar o trabalho da Sprint?
-R15: [RESPOSTA A SER PREENCHIDA]
+R15: O evento usado para planejar o trabalho da Sprint é a Sprint Planning (Planejamento da Sprint). Nele, o time define quais itens do backlog serão desenvolvidos na Sprint e como será feito o trabalho para alcançá-los.
 
 ---
 ### Bloco 04: Scrum - Artefatos
 ---
 
 P16: O que é o Product Backlog?
-R16: [RESPOSTA A SER PREENCHIDA]
+R16: O Product Backlog é uma lista priorizada de funcionalidades e tarefas a serem feitas no produto. É mantido pelo Product Owner e atualizado regularmente. Itens são trabalhados durante os Sprints, com foco na entrega de valor contínuo.
 
 P17: O que é o Sprint Backlog?
-R17: [RESPOSTA A SER PREENCHIDA]
+R17: O Sprint Backlog é o conjunto de itens do Product Backlog selecionados para a Sprint, junto com um plano para entregar o Incremento do produto. Ele representa todo o trabalho que o time pretende realizar durante a Sprint.
 
 P18: O que é o "Incremento do Produto"?
-R18: [RESPOSTA A SER PREENCHIDA]
+R18: É o resultado de um trabalho feito por uma equipe ao final de uma sprint, sendo assim mostrando um passo a frente dado para o trabalho.
 
 P19: O que é a "Definition of Done" (Definição de Pronto)?
 R19: [RESPOSTA A SER PREENCHIDA]
@@ -130,17 +134,17 @@ P33: O que "Cycle Time" mede?
 R33: [RESPOSTA A SER PREENCHIDA]
 
 P34: Qual a diferença entre Lead Time e Cycle Time?
-R34: [RESPOSTA A SER PREENCHIDA]
+R34: O lead time é o tempo total desde a solicitação de um item até sua entrega, enquanto o tempo de ciclo é o tempo gasto no ciclo.
 
 P35: O que é um CFD (Cumulative Flow Diagram)?
-R35: [RESPOSTA A SER PREENCHIDA]
+R35: É uma ferramenta analítica usada no método Kanban , um sistema ágil de gerenciamento de projetos
 
 ---
 ### Bloco 08: Lean e MVP
 ---
 
 P36: O que significa a sigla MVP?
-R36: [RESPOSTA A SER PREENCHIDA]
+R36: MVP significa Produto Mínimo Viável. Refere-se à versão mais simples de um produto, com as funcionalidades essenciais para validar hipóteses com os usuários. O objetivo é testar o mercado e coletar feedback antes de expandir o desenvolvimento.
 
 P37: Qual o principal objetivo de construir um MVP?
 R37: [RESPOSTA A SER PREENCHIDA]
@@ -152,7 +156,7 @@ P39: O que é o ciclo "Construir-Medir-Aprender"?
 R39: [RESPOSTA A SER PREENCHIDA]
 
 P40: Um protótipo é a mesma coisa que um MVP?
-R40: [RESPOSTA A SER PREENCHIDA]
+R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento 
 
 ---
 ### Bloco 09: Cultura e Escalabilidade
