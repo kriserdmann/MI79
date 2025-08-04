@@ -130,10 +130,10 @@ P33: O que "Cycle Time" mede?
 R33: [RESPOSTA A SER PREENCHIDA]
 
 P34: Qual a diferença entre Lead Time e Cycle Time?
-R34: [RESPOSTA A SER PREENCHIDA]
+R34: O lead time é o tempo total desde a solicitação de um item até sua entrega, enquanto o tempo de ciclo é o tempo gasto no ciclo.
 
 P35: O que é um CFD (Cumulative Flow Diagram)?
-R35: [RESPOSTA A SER PREENCHIDA]
+R35: É uma ferramenta analítica usada no método Kanban , um sistema ágil de gerenciamento de projetos
 
 ---
 ### Bloco 08: Lean e MVP
