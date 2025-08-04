@@ -111,7 +111,7 @@ P26: O que é Extreme Programming (XP)?
 R26: [RESPOSTA A SER PREENCHIDA]
 
 P27: O que é a prática de "Pair Programming" (Programação em Par)?
-R27: [RESPOSTA A SER PREENCHIDA]
+R27: É uma técnica usada no XP onde dois desenvolvedores usam a mesma máquina, em que um programa e o outro revisa o código
 
 P28: O que é "Continuous Integration" (Integração Contínua - CI)?
 R28: [RESPOSTA A SER PREENCHIDA]
