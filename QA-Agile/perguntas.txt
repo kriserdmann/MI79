@@ -16,10 +16,10 @@ P03: Cite um dos quatro valores do Manifesto Ágil.
 R03: [RESPOSTA A SER PREENCHIDA]
 
 P04: Qual o principal benefício de entregar software funcional com frequência?
-R04: [RESPOSTA A SER PREENCHIDA]
+R04: O principal benefício é que os usuários podem já começar a utilizar o software e verificar seu funcionamento
 
 P05: Agile é uma metodologia ou uma mentalidade (mindset)?
-R05: [RESPOSTA A SER PREENCHIDA]
+R05: Agile pode ser considerada uma mentalidade que a adaptabilidade e a colaboração em detrimento de métodos rígidos e tradicionais.
 
 ---
 ### Bloco 02: Scrum - Papéis
