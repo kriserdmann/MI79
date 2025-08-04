@@ -75,3 +75,78 @@ a:hover {
   max-width: 800px;
   margin: 0 auto;
 }
+
+/* Lista com aparência de tabela */
+ul,
+ol {
+  width: 100%;
+  border-collapse: collapse;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+}
+
+ul li,
+ol li {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  border-bottom: 1px solid #e0e3ea;
+  background: #fafbfc;
+  transition: background 0.2s;
+}
+
+/* Alternância de cor de fundo */
+ul li:nth-child(even),
+ol li:nth-child(even) {
+  background: #f0f2f7;
+}
+
+/* Última linha sem borda */
+ul li:last-child,
+ol li:last-child {
+  border-bottom: none;
+}
+
+/* Tema em tons de verde */
+body {
+  background: #eafaf1;
+  color: #1b3c2e;
+}
+
+header {
+  background: #2e7d4f;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(46, 125, 79, 0.08);
+}
+
+button,
+.btn {
+  background: #2e7d4f;
+  color: #fff;
+}
+button:hover,
+.btn:hover {
+  background: #1b5e20;
+}
+
+a {
+  color: #2e7d4f;
+}
+a:hover {
+  color: #1b5e20;
+}
+
+.container {
+  background: #fff;
+  box-shadow: 0 2px 16px rgba(46, 125, 79, 0.06);
+}
+
+ul li,
+ol li {
+  background: #f3fdf7;
+}
+ul li:nth-child(even),
+ol li:nth-child(even) {
+  background: #e0f5e9;
+}
