@@ -152,7 +152,7 @@ P39: O que é o ciclo "Construir-Medir-Aprender"?
 R39: [RESPOSTA A SER PREENCHIDA]
 
 P40: Um protótipo é a mesma coisa que um MVP?
-R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento 
+R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento. 
 
 ---
 ### Bloco 09: Cultura e Escalabilidade
@@ -171,7 +171,7 @@ P44: O que é "segurança psicológica" em um time ágil?
 R44: [RESPOSTA A SER PREENCHIDA]
 
 P45: Por que a colaboração com o cliente é um valor fundamental do ágil?
-R45: [RESPOSTA A SER PREENCHIDA]
+R45: A colaboração é fundamental para receber um feedback, e assim sempre manter o projeto alinhado com as expectativas do cliente.
 
 ---
 ### Bloco 10: Tópicos Avançados
