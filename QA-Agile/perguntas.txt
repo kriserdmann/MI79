@@ -134,8 +134,7 @@ R30: Um gráfico burndown é uma ferramenta visual utilizada em metodologias ág
 ---
 
 P31: O que é "Velocity" (Velocidade) de uma equipe?
-R31: [RESPOSTA A SER PREENCHIDA]
-
+R31: Velocidade em termos ágeis significa a quantidade média de trabalho que uma equipe pode completar em um ciclo de entrega.
 P32: O que "Lead Time" mede?
 R32: [RESPOSTA A SER PREENCHIDA]
 
