@@ -177,10 +177,10 @@ P42: O que é "Business Agility"?
 R42: [RESPOSTA A SER PREENCHIDA]
 
 P43: Cite um framework para escalar o ágil para múltiplos times (ex: SAFe, LeSS).
-R43: [RESPOSTA A SER PREENCHIDA]
+R43: Um exemplo de framework para escalar o ágil é o SAFe (Scaled Agile Framework), usado para coordenar múltiplos times em grandes projetos.
 
 P44: O que é "segurança psicológica" em um time ágil?
-R44: [RESPOSTA A SER PREENCHIDA]
+R44: Segurança psicológica é quando os membros do time se sentem seguros para opinar, errar e fazer perguntas sem medo de julgamentos ou punições.
 
 P45: Por que a colaboração com o cliente é um valor fundamental do ágil?
 R45: A colaboração é fundamental para receber um feedback, e assim sempre manter o projeto alinhado com as expectativas do cliente.
