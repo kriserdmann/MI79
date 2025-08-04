@@ -35,7 +35,7 @@ P06: Qual é o papel do Product Owner (PO) no Scrum?
 R06: [RESPOSTA A SER PREENCHIDA]
 
 P07: Qual é a principal função do Scrum Master?
-R07: [RESPOSTA A SER PREENCHIDA]
+R07: Organizar a equipe para que o método Scrum seja executado de maneira satisfatória
 
 P08: Quem forma o Time de Desenvolvimento (Dev Team)?
 R08: [RESPOSTA A SER PREENCHIDA]
@@ -73,10 +73,10 @@ P16: O que é o Product Backlog?
 R16: O Product Backlog é uma lista priorizada de funcionalidades e tarefas a serem feitas no produto. É mantido pelo Product Owner e atualizado regularmente. Itens são trabalhados durante os Sprints, com foco na entrega de valor contínuo.
 
 P17: O que é o Sprint Backlog?
-R17: [RESPOSTA A SER PREENCHIDA]
+R17: O Sprint Backlog é o conjunto de itens do Product Backlog selecionados para a Sprint, junto com um plano para entregar o Incremento do produto. Ele representa todo o trabalho que o time pretende realizar durante a Sprint.
 
 P18: O que é o "Incremento do Produto"?
-R18: [RESPOSTA A SER PREENCHIDA]
+R18: É o resultado de um trabalho feito por uma equipe ao final de uma sprint, sendo assim mostrando um passo a frente dado para o trabalho.
 
 P19: O que é a "Definition of Done" (Definição de Pronto)?
 R19: [RESPOSTA A SER PREENCHIDA]
@@ -136,17 +136,17 @@ P33: O que "Cycle Time" mede?
 R33: [RESPOSTA A SER PREENCHIDA]
 
 P34: Qual a diferença entre Lead Time e Cycle Time?
-R34: [RESPOSTA A SER PREENCHIDA]
+R34: O lead time é o tempo total desde a solicitação de um item até sua entrega, enquanto o tempo de ciclo é o tempo gasto no ciclo.
 
 P35: O que é um CFD (Cumulative Flow Diagram)?
-R35: [RESPOSTA A SER PREENCHIDA]
+R35: É uma ferramenta analítica usada no método Kanban , um sistema ágil de gerenciamento de projetos
 
 ---
 ### Bloco 08: Lean e MVP
 ---
 
 P36: O que significa a sigla MVP?
-R36: [RESPOSTA A SER PREENCHIDA]
+R36: MVP significa Produto Mínimo Viável. Refere-se à versão mais simples de um produto, com as funcionalidades essenciais para validar hipóteses com os usuários. O objetivo é testar o mercado e coletar feedback antes de expandir o desenvolvimento.
 
 P37: Qual o principal objetivo de construir um MVP?
 R37: [RESPOSTA A SER PREENCHIDA]
@@ -158,7 +158,7 @@ P39: O que é o ciclo "Construir-Medir-Aprender"?
 R39: [RESPOSTA A SER PREENCHIDA]
 
 P40: Um protótipo é a mesma coisa que um MVP?
-R40: [RESPOSTA A SER PREENCHIDA]
+R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento. 
 
 ---
 ### Bloco 09: Cultura e Escalabilidade
@@ -177,7 +177,7 @@ P44: O que é "segurança psicológica" em um time ágil?
 R44: [RESPOSTA A SER PREENCHIDA]
 
 P45: Por que a colaboração com o cliente é um valor fundamental do ágil?
-R45: [RESPOSTA A SER PREENCHIDA]
+R45: A colaboração é fundamental para receber um feedback, e assim sempre manter o projeto alinhado com as expectativas do cliente.
 
 ---
 ### Bloco 10: Tópicos Avançados
