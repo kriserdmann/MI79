@@ -165,7 +165,8 @@ R40: Não, o protótipo é um produto possivelmente não funcional, apenas para 
 ---
 
 P41: O que é "Agile Coach"?
-R41: [RESPOSTA A SER PREENCHIDA]
+R41: Um Agile Coach é um profissional que orienta equipes e organizações na adoção de métodos ágeis, ajudando a melhorar processos, colaboração e eficiência. Ele atua como mentor e facilitador para promover uma cultura ágil.
+
 
 P42: O que é "Business Agility"?
 R42: [RESPOSTA A SER PREENCHIDA]
