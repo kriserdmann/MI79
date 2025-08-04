@@ -206,7 +206,27 @@ R48: Planning Poker é uma técnica divertida e colaborativa usada por equipes �
 o planejamento de uma sprint
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
-R49: [RESPOSTA A SER PREENCHIDA]
+R49: A diferença está no foco do time e em como ele entrega valor:
+
+Time Feature-Driven (focado em funcionalidades):
+Atua em funcionalidades completas do produto.
+
+Costuma ser multidisciplinar (front, back, QA, etc).
+
+Entrega valor direto ao usuário.
+
+Exemplo: um time que desenvolve toda a funcionalidade "Cadastro de Usuário", do início ao fim.
+
+Time Component-Driven (focado em componentes):
+Atua em partes técnicas específicas do sistema.
+
+Pode ser especializado (só back-end, por exemplo).
+
+Não entrega valor sozinho — depende de integração com outros times.
+
+Exemplo: um time responsável só pelo banco de dados ou pela API de autenticação.
+
+
 
 P50: O que é "TDD" (Test-Driven Development)?
 R50: É uma metodologia de desenvolvimento de software onde os testes automatizados são escritos antes do código da funcionalidade em si
