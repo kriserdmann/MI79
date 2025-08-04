@@ -196,4 +196,4 @@ P49: Qual a diferença entre um time "feature-driven" e um time "component-drive
 R49: [RESPOSTA A SER PREENCHIDA]
 
 P50: O que é "TDD" (Test-Driven Development)?
-R50: [RESPOSTA A SER PREENCHIDA]
+R50: É uma metodologia de desenvolvimento de software onde os testes automatizados são escritos antes do código da funcionalidade em si
