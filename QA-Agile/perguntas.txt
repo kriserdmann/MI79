@@ -83,7 +83,7 @@ R20: [RESPOSTA A SER PREENCHIDA]
 ---
 
 P21: O que é um quadro Kanban?
-R21: [RESPOSTA A SER PREENCHIDA]
+R21: É uma ferramenta visual usada para gerenciar projetos e fluxos de trabalho, permitindo que equipes visualizem o trabalho.
 
 P22: Qual o objetivo de um quadro Kanban?
 R22: [RESPOSTA A SER PREENCHIDA]
