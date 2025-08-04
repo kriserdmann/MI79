@@ -160,7 +160,7 @@ P37: Qual o principal objetivo de construir um MVP?
 R37: [RESPOSTA A SER PREENCHIDA]
 
 P38: Qual a relação entre a filosofia Lean e o conceito de "desperdício"?
-R38: [RESPOSTA A SER PREENCHIDA]
+R38: A filosofia Lean busca a máxima eficiência e valor para o cliente através da identificação e eliminação contínua de desperdícios, que são todas as atividades ou recursos que não agregam valor ao produto ou serviço final. O objetivo é criar processos enxutos, ágeis e de alta qualidade.
 
 P39: O que é o ciclo "Construir-Medir-Aprender"?
 R39: É uma abordagem iterativa e fundamental na metodologia Lean Startup, onde startups e empresas buscam validar suas ideias e produtos de forma rápida e eficiente.
