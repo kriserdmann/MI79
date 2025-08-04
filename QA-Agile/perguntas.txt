@@ -17,7 +17,9 @@ Colaboração com o cliente mais que negociação de contratos,
 Responder a mudanças mais que seguir um plano;
 
 P03: Cite um dos quatro valores do Manifesto Ágil.
-R03: [RESPOSTA A SER PREENCHIDA]
+R03: No Manifesto Ágil temos o valor "Software em funcionamento mais que documentação abrangente" 
+Que significa que o código em funcionamneto é mais importante que
+uma documentação muito detalhada
 
 P04: Qual o principal benefício de entregar software funcional com frequência?
 R04: [RESPOSTA A SER PREENCHIDA]
