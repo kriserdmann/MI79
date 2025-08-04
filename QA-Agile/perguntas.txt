@@ -84,10 +84,12 @@ P18: O que é o "Incremento do Produto"?
 R18: É o resultado de um trabalho feito por uma equipe ao final de uma sprint, sendo assim mostrando um passo a frente dado para o trabalho.
 
 P19: O que é a "Definition of Done" (Definição de Pronto)?
-R19: [RESPOSTA A SER PREENCHIDA]
+R19: A Definition of Done é um conjunto de critérios que uma entrega precisa atender para ser considerada completa. Ela garante que o item está pronto para ser entregue, com qualidade, testado e integrado ao produto.
 
 P20: O que é uma "User Story" (História de Usuário)?
-R20: [RESPOSTA A SER PREENCHIDA]
+R20: Uma User Story é uma descrição simples de uma funcionalidade do ponto de vista do usuário. Ela geralmente segue o formato:
+“Como [tipo de usuário], eu quero [ação] para [benefício].”
+Exemplo: “Como cliente, quero acompanhar meu pedido para saber quando ele será entregue.”
 
 ---
 ### Bloco 05: Kanban
