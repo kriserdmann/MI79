@@ -7,7 +7,7 @@ Instruções: Preencha o campo [RESPOSTA A SER PREENCHIDA] para cada pergunta qu
 ---
 
 P01: O que é o Manifesto Ágil?
-R01: [RESPOSTA A SER PREENCHIDA]
+R01: documento que define os princípios e valores para o desenvolvimento de software de forma mais flexível e adaptável
 
 P02: Quantos valores principais o Manifesto Ágil possui?
 R02: O Manifesto Ágil Possui 4 valores principais:
@@ -44,14 +44,14 @@ P09: Quem são os "stakeholders" de um projeto?
 R09: [RESPOSTA A SER PREENCHIDA]
 
 P10: O Scrum Master é o "chefe" da equipe?
-R10: [RESPOSTA A SER PREENCHIDA]
+R10: Não, facilita o processo, remove obstáculos e orienta a equipe, mas não tem autoridade sobre as decisões ou tarefas da equipe.
 
 ---
 ### Bloco 03: Scrum - Eventos
 ---
 
 P11: O que significa "Sprint" no contexto do Scrum?
-R11: [RESPOSTA A SER PREENCHIDA]
+R11: Um sprint é um período curto e fixo em que uma equipe scrum trabalha para concluir uma quantidade definida de trabalho.
 
 P12: Qual o objetivo da Daily Scrum (reunião diária)?
 R12: [RESPOSTA A SER PREENCHIDA]
@@ -95,10 +95,10 @@ P22: Qual o objetivo de um quadro Kanban?
 R22: O objetivo é ajudar uma equipe a gerenciar suas tarefas, de forma eficaz e que o trabalho flua suavemente do inicio ao fim.
 
 P23: O que significa a sigla WIP em um quadro Kanban?
-R23: [RESPOSTA A SER PREENCHIDA]
+R23: A sigla WIP significa "Work In Progress" (Trabalho em Andamento)
 
 P24: Por que é importante limitar o WIP (Trabalho em Progresso)?
-R24: [RESPOSTA A SER PREENCHIDA]
+R24: Para facilitar a identificação de ineficiências no fluxo de trabalho de uma equipe.
 
 P25: Kanban possui papéis definidos como o Scrum?
 R25: [RESPOSTA A SER PREENCHIDA]
@@ -120,7 +120,7 @@ P29: O que é "Refactoring" (Refatoração)?
 R29: [RESPOSTA A SER PREENCHIDA]
 
 P30: O que é um "burndown chart"?
-R30: [RESPOSTA A SER PREENCHIDA]
+R30: Um gráfico burndown é uma ferramenta visual utilizada em metodologias ágeis, como o Scrum, para acompanhar o progresso de um projeto ou sprint em relação ao tempo. 
 
 ---
 ### Bloco 07: Métricas Ágeis
@@ -165,10 +165,12 @@ R40: Não, o protótipo é um produto possivelmente não funcional, apenas para 
 ---
 
 P41: O que é "Agile Coach"?
-R41: [RESPOSTA A SER PREENCHIDA]
+R41: Um Agile Coach é um profissional que orienta equipes e organizações na adoção de métodos ágeis, ajudando a melhorar processos, colaboração e eficiência. Ele atua como mentor e facilitador para promover uma cultura ágil.
+
 
 P42: O que é "Business Agility"?
-R42: [RESPOSTA A SER PREENCHIDA]
+R42: Business Agility é a capacidade de uma organização se adaptar rapidamente a mudanças e incertezas, aplicando práticas ágeis em todas as áreas para melhorar a eficiência e a inovação.
+
 
 P43: Cite um framework para escalar o ágil para múltiplos times (ex: SAFe, LeSS).
 R43: [RESPOSTA A SER PREENCHIDA]
@@ -193,7 +195,7 @@ P48: O que é "Planning Poker"?
 R48: [RESPOSTA A SER PREENCHIDA]
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
-R49: [RESPOSTA A SER PREENCHIDA]
+R49: Foca em desenvolver funcionalidades completas do produto | Foca no desenvolvimento de componentes reutilizáveis e infraestrutura
 
 P50: O que é "TDD" (Test-Driven Development)?
-R50: [RESPOSTA A SER PREENCHIDA]
+R50: É uma metodologia de desenvolvimento de software onde os testes automatizados são escritos antes do código da funcionalidade em si
