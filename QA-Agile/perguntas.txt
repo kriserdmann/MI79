@@ -156,7 +156,7 @@ P39: O que é o ciclo "Construir-Medir-Aprender"?
 R39: [RESPOSTA A SER PREENCHIDA]
 
 P40: Um protótipo é a mesma coisa que um MVP?
-R40: [RESPOSTA A SER PREENCHIDA]
+R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento 
 
 ---
 ### Bloco 09: Cultura e Escalabilidade
