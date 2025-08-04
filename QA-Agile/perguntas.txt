@@ -191,7 +191,7 @@ R45: A colaboração é fundamental para receber um feedback, e assim sempre man
 ---
 
 P46: O que são "Spikes" em um backlog?
-R46: [RESPOSTA A SER PREENCHIDA]
+R46: Spikes são tarefas do backlog usadas para pesquisa, estudo ou experimentação técnica. Elas servem quando o time precisa investigar algo antes de implementar — como entender uma tecnologia nova ou estimar melhor uma funcionalidade.
 
 P47: O que é "Dívida Técnica" (Technical Debt)?
 R47: Dívida Técnica (em inglês, Technical Debt) é um termo usado em 
