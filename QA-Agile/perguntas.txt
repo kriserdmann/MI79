@@ -7,7 +7,7 @@ Instruções: Preencha o campo [RESPOSTA A SER PREENCHIDA] para cada pergunta qu
 ---
 
 P01: O que é o Manifesto Ágil?
-R01: [RESPOSTA A SER PREENCHIDA]
+R01: documento que define os princípios e valores para o desenvolvimento de software de forma mais flexível e adaptável
 
 P02: Quantos valores principais o Manifesto Ágil possui?
 R02: O Manifesto Ágil Possui 4 valores principais:
@@ -191,7 +191,7 @@ P48: O que é "Planning Poker"?
 R48: [RESPOSTA A SER PREENCHIDA]
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
-R49: [RESPOSTA A SER PREENCHIDA]
+R49: Foca em desenvolver funcionalidades completas do produto | Foca no desenvolvimento de componentes reutilizáveis e infraestrutura
 
 P50: O que é "TDD" (Test-Driven Development)?
 R50: [RESPOSTA A SER PREENCHIDA]
