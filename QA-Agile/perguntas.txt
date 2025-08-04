@@ -7,7 +7,7 @@ Instruções: Preencha o campo [RESPOSTA A SER PREENCHIDA] para cada pergunta qu
 ---
 
 P01: O que é o Manifesto Ágil?
-R01: [RESPOSTA A SER PREENCHIDA]
+R01: O Manifesto Ágil é um conjunto de valores e princípios criado em 2001 por desenvolvedores de software para melhorar a forma como projetos são gerenciados e entregues.
 
 P02: Quantos valores principais o Manifesto Ágil possui?
 R02: O Manifesto Ágil Possui 4 valores principais:
