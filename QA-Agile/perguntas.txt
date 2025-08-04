@@ -59,10 +59,10 @@ P11: O que significa "Sprint" no contexto do Scrum?
 R11: Um sprint é um período curto e fixo em que uma equipe scrum trabalha para concluir uma quantidade definida de trabalho.
 
 P12: Qual o objetivo da Daily Scrum (reunião diária)?
-R12: [RESPOSTA A SER PREENCHIDA]
+R12: O objetivo da Daily Scrum é permitir que o time sincronize suas atividades, compartilhe o progresso desde o último encontro, identifique obstáculos e planeje o trabalho até a próxima reunião, promovendo transparência e colaboração.
 
 P13: O que acontece na Sprint Review (Revisão da Sprint)?
-R13: [RESPOSTA A SER PREENCHIDA]
+R13: Na Sprint Review, o time apresenta o que foi desenvolvido durante a Sprint para os stakeholders, obtém feedback e colabora na adaptação do Product Backlog, garantindo que o produto esteja sempre alinhado às necessidades do cliente.
 
 P14: Para que serve a Sprint Retrospective (Retrospectiva da Sprint)?
 R14: A Sprint Retrospective serve para que o time inspecione como foi o trabalho durante a Sprint e identifique formas de melhorar o processo. É um momento de reflexão em que a equipe avalia o que funcionou bem, o que não funcionou e como pode se tornar mais eficaz na próxima Sprint.
