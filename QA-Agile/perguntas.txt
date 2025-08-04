@@ -29,7 +29,7 @@ P06: Qual é o papel do Product Owner (PO) no Scrum?
 R06: [RESPOSTA A SER PREENCHIDA]
 
 P07: Qual é a principal função do Scrum Master?
-R07: [RESPOSTA A SER PREENCHIDA]
+R07: Organizar a equipe para que o método Scrum seja executado de maneira satisfatória
 
 P08: Quem forma o Time de Desenvolvimento (Dev Team)?
 R08: [RESPOSTA A SER PREENCHIDA]
