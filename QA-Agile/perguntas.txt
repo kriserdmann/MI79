@@ -37,7 +37,7 @@ R05: Agile é uma mentalidade (mindset) que valoriza colaboração, adaptação 
 ---
 
 P06: Qual é o papel do Product Owner (PO) no Scrum?
-R06: Maximizar o valor do projeto e comunicar-se com os stakeholders
+R06: Maximizar o valor do projeto e comunicar-se com os stakeholders.
 
 P07: Qual é a principal função do Scrum Master?
 R07: Organizar a equipe para que o método Scrum seja executado de maneira satisfatória
@@ -84,10 +84,12 @@ P18: O que é o "Incremento do Produto"?
 R18: É o resultado de um trabalho feito por uma equipe ao final de uma sprint, sendo assim mostrando um passo a frente dado para o trabalho.
 
 P19: O que é a "Definition of Done" (Definição de Pronto)?
-R19: [RESPOSTA A SER PREENCHIDA]
+R19: A Definition of Done é um conjunto de critérios que uma entrega precisa atender para ser considerada completa. Ela garante que o item está pronto para ser entregue, com qualidade, testado e integrado ao produto.
 
 P20: O que é uma "User Story" (História de Usuário)?
-R20: [RESPOSTA A SER PREENCHIDA]
+R20: Uma User Story é uma descrição simples de uma funcionalidade do ponto de vista do usuário. Ela geralmente segue o formato:
+“Como [tipo de usuário], eu quero [ação] para [benefício].”
+Exemplo: “Como cliente, quero acompanhar meu pedido para saber quando ele será entregue.”
 
 ---
 ### Bloco 05: Kanban
@@ -171,10 +173,10 @@ R40: Não, o protótipo é um produto possivelmente não funcional, apenas para 
 ---
 
 P41: O que é "Agile Coach"?
-R41: [RESPOSTA A SER PREENCHIDA]
+R41: Um Agile Coach é um profissional que orienta equipes e organizações na adoção de métodos ágeis, ajudando a melhorar processos, colaboração e eficiência. Ele atua como mentor e facilitador para promover uma cultura ágil.
 
 P42: O que é "Business Agility"?
-R42: [RESPOSTA A SER PREENCHIDA]
+R42:  Business Agility é a capacidade de uma organização se adaptar rapidamente a mudanças e incertezas, aplicando práticas ágeis em todas as áreas para melhorar a eficiência e a inovação.
 
 P43: Cite um framework para escalar o ágil para múltiplos times (ex: SAFe, LeSS).
 R43: Um exemplo de framework para escalar o ágil é o SAFe (Scaled Agile Framework), usado para coordenar múltiplos times em grandes projetos.
@@ -190,7 +192,7 @@ R45: A colaboração é fundamental para receber um feedback, e assim sempre man
 ---
 
 P46: O que são "Spikes" em um backlog?
-R46: [RESPOSTA A SER PREENCHIDA]
+R46: Spikes são tarefas do backlog usadas para pesquisa, estudo ou experimentação técnica. Elas servem quando o time precisa investigar algo antes de implementar — como entender uma tecnologia nova ou estimar melhor uma funcionalidade.
 
 P47: O que é "Dívida Técnica" (Technical Debt)?
 R47: Dívida Técnica (em inglês, Technical Debt) é um termo usado em 
@@ -204,7 +206,27 @@ R48: Planning Poker é uma técnica divertida e colaborativa usada por equipes �
 o planejamento de uma sprint
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
-R49: [RESPOSTA A SER PREENCHIDA]
+R49: A diferença está no foco do time e em como ele entrega valor:
+
+Time Feature-Driven (focado em funcionalidades):
+Atua em funcionalidades completas do produto.
+
+Costuma ser multidisciplinar (front, back, QA, etc).
+
+Entrega valor direto ao usuário.
+
+Exemplo: um time que desenvolve toda a funcionalidade "Cadastro de Usuário", do início ao fim.
+
+Time Component-Driven (focado em componentes):
+Atua em partes técnicas específicas do sistema.
+
+Pode ser especializado (só back-end, por exemplo).
+
+Não entrega valor sozinho — depende de integração com outros times.
+
+Exemplo: um time responsável só pelo banco de dados ou pela API de autenticação.
+
+
 
 P50: O que é "TDD" (Test-Driven Development)?
 R50: É uma metodologia de desenvolvimento de software onde os testes automatizados são escritos antes do código da funcionalidade em si
