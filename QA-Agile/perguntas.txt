@@ -120,7 +120,7 @@ P29: O que é "Refactoring" (Refatoração)?
 R29: [RESPOSTA A SER PREENCHIDA]
 
 P30: O que é um "burndown chart"?
-R30: [RESPOSTA A SER PREENCHIDA]
+R30: Um gráfico burndown é uma ferramenta visual utilizada em metodologias ágeis, como o Scrum, para acompanhar o progresso de um projeto ou sprint em relação ao tempo. 
 
 ---
 ### Bloco 07: Métricas Ágeis
