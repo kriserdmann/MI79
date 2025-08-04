@@ -98,7 +98,7 @@ P23: O que significa a sigla WIP em um quadro Kanban?
 R23: A sigla WIP significa "Work In Progress" (Trabalho em Andamento)
 
 P24: Por que é importante limitar o WIP (Trabalho em Progresso)?
-R24:  Limitar o WIP evita sobrecarga, melhora o foco da equipe e ajuda a manter um fluxo de trabalho mais eficiente.
+R24: Para facilitar a identificação de ineficiências no fluxo de trabalho de uma equipe
 
 P25: Kanban possui papéis definidos como o Scrum?
 R25: Não, o Kanban não define papéis fixos como o Scrum. Ele é mais flexível e pode ser adaptado à equipe.
