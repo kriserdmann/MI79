@@ -89,7 +89,7 @@ R20: [RESPOSTA A SER PREENCHIDA]
 ---
 
 P21: O que é um quadro Kanban?
-R21: [RESPOSTA A SER PREENCHIDA]
+R21: Um quadro Kanban é uma ferramenta visual usada para gerenciar projetos e fluxos de trabalho, permitindo que equipes visualizem o trabalho, limitem o trabalho em andamento e otimizem a eficiência.
 
 P22: Qual o objetivo de um quadro Kanban?
 R22: O objetivo é ajudar uma equipe a gerenciar suas tarefas, de forma eficaz e que o trabalho flua suavemente do inicio ao fim.
@@ -114,6 +114,7 @@ P27: O que é a prática de "Pair Programming" (Programação em Par)?
 R27: É uma técnica usada no XP onde dois desenvolvedores usam a mesma máquina, em que um programa e o outro revisa o código
 
 P28: O que é "Continuous Integration" (Integração Contínua - CI)?
+R28: A Integração Contínua (Continuous Integration - CI) é uma prática de desenvolvimento de software onde os desenvolvedores integram seu código em um repositório central com frequência, geralmente várias vezes ao dia.
 R28: é uma pratica de desenvolvedores que consiste em trabalhar em um repositorio compartilhado com toda a equipe
 a,k
 P29: O que é "Refactoring" (Refatoração)?
