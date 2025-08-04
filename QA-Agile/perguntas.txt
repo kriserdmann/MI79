@@ -181,7 +181,10 @@ P46: O que são "Spikes" em um backlog?
 R46: [RESPOSTA A SER PREENCHIDA]
 
 P47: O que é "Dívida Técnica" (Technical Debt)?
-R47: [RESPOSTA A SER PREENCHIDA]
+R47: Dívida Técnica (em inglês, Technical Debt) é um termo usado em 
+desenvolvimento de software para descrever
+o custo futuro de se escolher uma solução rápida e fácil hoje, 
+ao invés de uma solução mais correta e sustentável a longo prazo.
 
 P48: O que é "Planning Poker"?
 R48: [RESPOSTA A SER PREENCHIDA]
