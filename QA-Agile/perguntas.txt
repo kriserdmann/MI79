@@ -140,7 +140,7 @@ R35: [RESPOSTA A SER PREENCHIDA]
 ---
 
 P36: O que significa a sigla MVP?
-R36: [RESPOSTA A SER PREENCHIDA]
+R36: MVP significa Produto Mínimo Viável. Refere-se à versão mais simples de um produto, com as funcionalidades essenciais para validar hipóteses com os usuários. O objetivo é testar o mercado e coletar feedback antes de expandir o desenvolvimento.
 
 P37: Qual o principal objetivo de construir um MVP?
 R37: [RESPOSTA A SER PREENCHIDA]
