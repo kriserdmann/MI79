@@ -157,7 +157,7 @@ P36: O que significa a sigla MVP?
 R36: MVP significa Produto Mínimo Viável. Refere-se à versão mais simples de um produto, com as funcionalidades essenciais para validar hipóteses com os usuários. O objetivo é testar o mercado e coletar feedback antes de expandir o desenvolvimento.
 
 P37: Qual o principal objetivo de construir um MVP?
-R37: [RESPOSTA A SER PREENCHIDA]
+R37: Validar a viabilidade de uma ideia de produto com o menor investimento possível, testando-a com usuários reais antes de desenvolver a versão completa.
 
 P38: Qual a relação entre a filosofia Lean e o conceito de "desperdício"?
 R38: [RESPOSTA A SER PREENCHIDA]
