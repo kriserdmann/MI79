@@ -189,10 +189,15 @@ P46: O que são "Spikes" em um backlog?
 R46: [RESPOSTA A SER PREENCHIDA]
 
 P47: O que é "Dívida Técnica" (Technical Debt)?
-R47: [RESPOSTA A SER PREENCHIDA]
+R47: Dívida Técnica (em inglês, Technical Debt) é um termo usado em 
+desenvolvimento de software para descrever
+o custo futuro de se escolher uma solução rápida e fácil hoje, 
+ao invés de uma solução mais correta e sustentável a longo prazo.
 
 P48: O que é "Planning Poker"?
-R48: [RESPOSTA A SER PREENCHIDA]
+R48: Planning Poker é uma técnica divertida e colaborativa usada por equipes ágeis 
+(como em Scrum) para estimar o esforço ou complexidade de tarefas, geralmente durante 
+o planejamento de uma sprint.
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
 R49: Foca em desenvolver funcionalidades completas do produto | Foca no desenvolvimento de componentes reutilizáveis e infraestrutura
