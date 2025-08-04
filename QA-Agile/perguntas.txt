@@ -93,10 +93,10 @@ P22: Qual o objetivo de um quadro Kanban?
 R22: [RESPOSTA A SER PREENCHIDA]
 
 P23: O que significa a sigla WIP em um quadro Kanban?
-R23: [RESPOSTA A SER PREENCHIDA]
+R23: A sigla WIP significa "Work In Progress" (Trabalho em Andamento)
 
 P24: Por que é importante limitar o WIP (Trabalho em Progresso)?
-R24: Para facilitar a identificação de ineficiências no fluxo de trabalho de uma equipe.
+R24: [RESPOSTA A SER PREENCHIDA]
 
 P25: Kanban possui papéis definidos como o Scrum?
 R25: [RESPOSTA A SER PREENCHIDA]
