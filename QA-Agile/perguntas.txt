@@ -67,7 +67,7 @@ P16: O que é o Product Backlog?
 R16: [RESPOSTA A SER PREENCHIDA]
 
 P17: O que é o Sprint Backlog?
-R17: [RESPOSTA A SER PREENCHIDA]
+R17: O Sprint Backlog é o conjunto de itens do Product Backlog selecionados para a Sprint, junto com um plano para entregar o Incremento do produto. Ele representa todo o trabalho que o time pretende realizar durante a Sprint.
 
 P18: O que é o "Incremento do Produto"?
 R18: [RESPOSTA A SER PREENCHIDA]
