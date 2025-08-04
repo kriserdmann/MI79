@@ -32,7 +32,7 @@ R05: [RESPOSTA A SER PREENCHIDA]
 ---
 
 P06: Qual é o papel do Product Owner (PO) no Scrum?
-R06: [RESPOSTA A SER PREENCHIDA]
+R06: Maximizar o valor do projeto e comunicar-se com os stakeholders
 
 P07: Qual é a principal função do Scrum Master?
 R07: Organizar a equipe para que o método Scrum seja executado de maneira satisfatória
