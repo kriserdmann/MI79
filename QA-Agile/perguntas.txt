@@ -7,7 +7,7 @@ Instruções: Preencha o campo [RESPOSTA A SER PREENCHIDA] para cada pergunta qu
 ---
 
 P01: O que é o Manifesto Ágil?
-R01: documento que define os princípios e valores para o desenvolvimento de software de forma mais flexível e adaptável
+R01: [RESPOSTA A SER PREENCHIDA]
 
 P02: Quantos valores principais o Manifesto Ágil possui?
 R02: O Manifesto Ágil Possui 4 valores principais:
@@ -98,10 +98,10 @@ P23: O que significa a sigla WIP em um quadro Kanban?
 R23: [RESPOSTA A SER PREENCHIDA]
 
 P24: Por que é importante limitar o WIP (Trabalho em Progresso)?
-R24: Para facilitar a identificação de ineficiências no fluxo de trabalho de uma equipe.
+R24:  Limitar o WIP evita sobrecarga, melhora o foco da equipe e ajuda a manter um fluxo de trabalho mais eficiente.
 
 P25: Kanban possui papéis definidos como o Scrum?
-R25: [RESPOSTA A SER PREENCHIDA]
+R25: Não, o Kanban não define papéis fixos como o Scrum. Ele é mais flexível e pode ser adaptado à equipe.
 
 ---
 ### Bloco 06: XP e Práticas Técnicas
@@ -165,12 +165,10 @@ R40: Não, o protótipo é um produto possivelmente não funcional, apenas para 
 ---
 
 P41: O que é "Agile Coach"?
-R41: Um Agile Coach é um profissional que orienta equipes e organizações na adoção de métodos ágeis, ajudando a melhorar processos, colaboração e eficiência. Ele atua como mentor e facilitador para promover uma cultura ágil.
-
+R41: [RESPOSTA A SER PREENCHIDA]
 
 P42: O que é "Business Agility"?
-R42: Business Agility é a capacidade de uma organização se adaptar rapidamente a mudanças e incertezas, aplicando práticas ágeis em todas as áreas para melhorar a eficiência e a inovação.
-
+R42: [RESPOSTA A SER PREENCHIDA]
 
 P43: Cite um framework para escalar o ágil para múltiplos times (ex: SAFe, LeSS).
 R43: [RESPOSTA A SER PREENCHIDA]
@@ -195,7 +193,7 @@ P48: O que é "Planning Poker"?
 R48: [RESPOSTA A SER PREENCHIDA]
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
-R49: Foca em desenvolver funcionalidades completas do produto | Foca no desenvolvimento de componentes reutilizáveis e infraestrutura
+R49: [RESPOSTA A SER PREENCHIDA]
 
 P50: O que é "TDD" (Test-Driven Development)?
 R50: [RESPOSTA A SER PREENCHIDA]
