@@ -135,7 +135,8 @@ R30: Um gráfico burndown é uma ferramenta visual utilizada em metodologias ág
 P31: O que é "Velocity" (Velocidade) de uma equipe?
 R31: Velocidade em termos ágeis significa a quantidade média de trabalho que uma equipe pode completar em um ciclo de entrega.
 P32: O que "Lead Time" mede?
-R32: [RESPOSTA A SER PREENCHIDA]
+R32: Mede o tempo total entre o início de um processo e sua conclusão, ou seja, o tempo que leva para um produto ou serviço ser entregue ao cliente, desde o momento do pedido até a entrega final.
+
 
 P33: O que "Cycle Time" mede?
 R33: O Cycle Time, ou Tempo de Ciclo, mede o tempo que leva para concluir uma tarefa ou ciclo de trabalho, desde o momento em que ele começa até o momento em que é finalizado.
