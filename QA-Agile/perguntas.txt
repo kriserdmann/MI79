@@ -90,7 +90,7 @@ P21: O que é um quadro Kanban?
 R21: [RESPOSTA A SER PREENCHIDA]
 
 P22: Qual o objetivo de um quadro Kanban?
-R22: [RESPOSTA A SER PREENCHIDA]
+R22: O objetivo é ajudar uma equipe a gerenciar suas tarefas, de forma eficaz e que o trabalho flua suavemente do inicio ao fim.
 
 P23: O que significa a sigla WIP em um quadro Kanban?
 R23: [RESPOSTA A SER PREENCHIDA]
