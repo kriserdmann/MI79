@@ -17,7 +17,9 @@ Colaboração com o cliente mais que negociação de contratos,
 Responder a mudanças mais que seguir um plano;
 
 P03: Cite um dos quatro valores do Manifesto Ágil.
-R03: [RESPOSTA A SER PREENCHIDA]
+R03: No Manifesto Ágil temos o valor "Software em funcionamento mais que documentação abrangente" 
+Que significa que o código em funcionamneto é mais importante que
+uma documentação muito detalhada
 
 P04: Qual o principal benefício de entregar software funcional com frequência?
 R04: [RESPOSTA A SER PREENCHIDA]
@@ -42,14 +44,14 @@ P09: Quem são os "stakeholders" de um projeto?
 R09: [RESPOSTA A SER PREENCHIDA]
 
 P10: O Scrum Master é o "chefe" da equipe?
-R10: [RESPOSTA A SER PREENCHIDA]
+R10: Não, facilita o processo, remove obstáculos e orienta a equipe, mas não tem autoridade sobre as decisões ou tarefas da equipe.
 
 ---
 ### Bloco 03: Scrum - Eventos
 ---
 
 P11: O que significa "Sprint" no contexto do Scrum?
-R11: [RESPOSTA A SER PREENCHIDA]
+R11: Um sprint é um período curto e fixo em que uma equipe scrum trabalha para concluir uma quantidade definida de trabalho.
 
 P12: Qual o objetivo da Daily Scrum (reunião diária)?
 R12: [RESPOSTA A SER PREENCHIDA]
@@ -87,10 +89,10 @@ R20: [RESPOSTA A SER PREENCHIDA]
 ---
 
 P21: O que é um quadro Kanban?
-R21: [RESPOSTA A SER PREENCHIDA]
+R21: Um quadro Kanban é uma ferramenta visual usada para gerenciar projetos e fluxos de trabalho, permitindo que equipes visualizem o trabalho, limitem o trabalho em andamento e otimizem a eficiência.
 
 P22: Qual o objetivo de um quadro Kanban?
-R22: [RESPOSTA A SER PREENCHIDA]
+R22: O objetivo é ajudar uma equipe a gerenciar suas tarefas, de forma eficaz e que o trabalho flua suavemente do inicio ao fim.
 
 P23: O que significa a sigla WIP em um quadro Kanban?
 R23: A sigla WIP significa "Work In Progress" (Trabalho em Andamento)
@@ -99,7 +101,7 @@ P24: Por que é importante limitar o WIP (Trabalho em Progresso)?
 R24: Para facilitar a identificação de ineficiências no fluxo de trabalho de uma equipe
 
 P25: Kanban possui papéis definidos como o Scrum?
-R25: [RESPOSTA A SER PREENCHIDA]
+R25: Não, o Kanban não define papéis fixos como o Scrum. Ele é mais flexível e pode ser adaptado à equipe.
 
 ---
 ### Bloco 06: XP e Práticas Técnicas
@@ -109,16 +111,17 @@ P26: O que é Extreme Programming (XP)?
 R26: [RESPOSTA A SER PREENCHIDA]
 
 P27: O que é a prática de "Pair Programming" (Programação em Par)?
-R27: [RESPOSTA A SER PREENCHIDA]
+R27: É uma técnica usada no XP onde dois desenvolvedores usam a mesma máquina, em que um programa e o outro revisa o código
 
 P28: O que é "Continuous Integration" (Integração Contínua - CI)?
-R28: [RESPOSTA A SER PREENCHIDA]
-
+R28: A Integração Contínua (Continuous Integration - CI) é uma prática de desenvolvimento de software onde os desenvolvedores integram seu código em um repositório central com frequência, geralmente várias vezes ao dia.
+R28: é uma pratica de desenvolvedores que consiste em trabalhar em um repositorio compartilhado com toda a equipe
+a,k
 P29: O que é "Refactoring" (Refatoração)?
 R29: [RESPOSTA A SER PREENCHIDA]
 
 P30: O que é um "burndown chart"?
-R30: [RESPOSTA A SER PREENCHIDA]
+R30: Um gráfico burndown é uma ferramenta visual utilizada em metodologias ágeis, como o Scrum, para acompanhar o progresso de um projeto ou sprint em relação ao tempo. 
 
 ---
 ### Bloco 07: Métricas Ágeis
@@ -131,7 +134,7 @@ P32: O que "Lead Time" mede?
 R32: [RESPOSTA A SER PREENCHIDA]
 
 P33: O que "Cycle Time" mede?
-R33: [RESPOSTA A SER PREENCHIDA]
+R33: O Cycle Time, ou Tempo de Ciclo, mede o tempo que leva para concluir uma tarefa ou ciclo de trabalho, desde o momento em que ele começa até o momento em que é finalizado.
 
 P34: Qual a diferença entre Lead Time e Cycle Time?
 R34: O lead time é o tempo total desde a solicitação de um item até sua entrega, enquanto o tempo de ciclo é o tempo gasto no ciclo.
@@ -144,7 +147,7 @@ R35: É uma ferramenta analítica usada no método Kanban , um sistema ágil de 
 ---
 
 P36: O que significa a sigla MVP?
-R36: [RESPOSTA A SER PREENCHIDA]
+R36: MVP significa Produto Mínimo Viável. Refere-se à versão mais simples de um produto, com as funcionalidades essenciais para validar hipóteses com os usuários. O objetivo é testar o mercado e coletar feedback antes de expandir o desenvolvimento.
 
 P37: Qual o principal objetivo de construir um MVP?
 R37: [RESPOSTA A SER PREENCHIDA]
@@ -156,7 +159,7 @@ P39: O que é o ciclo "Construir-Medir-Aprender"?
 R39: [RESPOSTA A SER PREENCHIDA]
 
 P40: Um protótipo é a mesma coisa que um MVP?
-R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento 
+R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento. 
 
 ---
 ### Bloco 09: Cultura e Escalabilidade
@@ -175,7 +178,7 @@ P44: O que é "segurança psicológica" em um time ágil?
 R44: [RESPOSTA A SER PREENCHIDA]
 
 P45: Por que a colaboração com o cliente é um valor fundamental do ágil?
-R45: [RESPOSTA A SER PREENCHIDA]
+R45: A colaboração é fundamental para receber um feedback, e assim sempre manter o projeto alinhado com as expectativas do cliente.
 
 ---
 ### Bloco 10: Tópicos Avançados
@@ -185,13 +188,18 @@ P46: O que são "Spikes" em um backlog?
 R46: [RESPOSTA A SER PREENCHIDA]
 
 P47: O que é "Dívida Técnica" (Technical Debt)?
-R47: [RESPOSTA A SER PREENCHIDA]
+R47: Dívida Técnica (em inglês, Technical Debt) é um termo usado em 
+desenvolvimento de software para descrever
+o custo futuro de se escolher uma solução rápida e fácil hoje, 
+ao invés de uma solução mais correta e sustentável a longo prazo.
 
 P48: O que é "Planning Poker"?
-R48: [RESPOSTA A SER PREENCHIDA]
+R48: Planning Poker é uma técnica divertida e colaborativa usada por equipes ágeis 
+(como em Scrum) para estimar o esforço ou complexidade de tarefas, geralmente durante 
+o planejamento de uma sprint.
 
 P49: Qual a diferença entre um time "feature-driven" e um time "component-driven"?
 R49: [RESPOSTA A SER PREENCHIDA]
 
 P50: O que é "TDD" (Test-Driven Development)?
-R50: [RESPOSTA A SER PREENCHIDA]
+R50: É uma metodologia de desenvolvimento de software onde os testes automatizados são escritos antes do código da funcionalidade em si
