@@ -45,7 +45,7 @@ R10: Não, facilita o processo, remove obstáculos e orienta a equipe, mas não 
 ---
 
 P11: O que significa "Sprint" no contexto do Scrum?
-R11: Um sprint é um período curto e fixo em que uma equipe scrum trabalha para concluir uma quantidade definida de trabalho.
+R11: [RESPOSTA A SER PREENCHIDA]
 
 P12: Qual o objetivo da Daily Scrum (reunião diária)?
 R12: [RESPOSTA A SER PREENCHIDA]
