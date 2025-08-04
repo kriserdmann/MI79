@@ -108,7 +108,8 @@ R25: Não, o Kanban não define papéis fixos como o Scrum. Ele é mais flexíve
 ---
 
 P26: O que é Extreme Programming (XP)?
-R26: [RESPOSTA A SER PREENCHIDA]
+R26: É um método que auxilia no desenvolvimento de códigos, consiste em 2 desenvolvedores estarem no mesmo computador ao mesmo tempo
+conferindo o código e tentando evitar erros e auxiliar na questão de lógica
 
 P27: O que é a prática de "Pair Programming" (Programação em Par)?
 R27: É uma técnica usada no XP onde dois desenvolvedores usam a mesma máquina, em que um programa e o outro revisa o código
