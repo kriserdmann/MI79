@@ -121,8 +121,7 @@ R27: É uma técnica usada no XP onde dois desenvolvedores usam a mesma máquina
 
 P28: O que é "Continuous Integration" (Integração Contínua - CI)?
 R28: A Integração Contínua (Continuous Integration - CI) é uma prática de desenvolvimento de software onde os desenvolvedores integram seu código em um repositório central com frequência, geralmente várias vezes ao dia.
-R28: é uma pratica de desenvolvedores que consiste em trabalhar em um repositorio compartilhado com toda a equipe
-a,k
+
 P29: O que é "Refactoring" (Refatoração)?
 R29: A refatoração de código é uma prática de desenvolvimento de software que altera a estrutura interna do código sem modificar seu comportamento externo ou afetar suas funções. Essas pequenas alterações visam tornar o código mais legível e sustentável.
 
