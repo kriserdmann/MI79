@@ -17,7 +17,9 @@ Colaboração com o cliente mais que negociação de contratos,
 Responder a mudanças mais que seguir um plano;
 
 P03: Cite um dos quatro valores do Manifesto Ágil.
-R03: [RESPOSTA A SER PREENCHIDA]
+R03: No Manifesto Ágil temos o valor "Software em funcionamento mais que documentação abrangente" 
+Que significa que o código em funcionamneto é mais importante que
+uma documentação muito detalhada
 
 P04: Qual o principal benefício de entregar software funcional com frequência?
 R04: [RESPOSTA A SER PREENCHIDA]
@@ -156,7 +158,7 @@ P39: O que é o ciclo "Construir-Medir-Aprender"?
 R39: [RESPOSTA A SER PREENCHIDA]
 
 P40: Um protótipo é a mesma coisa que um MVP?
-R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento 
+R40: Não, o protótipo é um produto possivelmente não funcional, apenas para executar uma ideia, já o MVP é o produto minimo em estado de funcionamento. 
 
 ---
 ### Bloco 09: Cultura e Escalabilidade
@@ -175,7 +177,7 @@ P44: O que é "segurança psicológica" em um time ágil?
 R44: [RESPOSTA A SER PREENCHIDA]
 
 P45: Por que a colaboração com o cliente é um valor fundamental do ágil?
-R45: [RESPOSTA A SER PREENCHIDA]
+R45: A colaboração é fundamental para receber um feedback, e assim sempre manter o projeto alinhado com as expectativas do cliente.
 
 ---
 ### Bloco 10: Tópicos Avançados
