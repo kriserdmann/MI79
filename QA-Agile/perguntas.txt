@@ -54,10 +54,10 @@ P13: O que acontece na Sprint Review (Revisão da Sprint)?
 R13: [RESPOSTA A SER PREENCHIDA]
 
 P14: Para que serve a Sprint Retrospective (Retrospectiva da Sprint)?
-R14: [RESPOSTA A SER PREENCHIDA]
+R14: A Sprint Retrospective serve para que o time inspecione como foi o trabalho durante a Sprint e identifique formas de melhorar o processo. É um momento de reflexão em que a equipe avalia o que funcionou bem, o que não funcionou e como pode se tornar mais eficaz na próxima Sprint.
 
 P15: Qual evento é usado para planejar o trabalho da Sprint?
-R15: [RESPOSTA A SER PREENCHIDA]
+R15: O evento usado para planejar o trabalho da Sprint é a Sprint Planning (Planejamento da Sprint). Nele, o time define quais itens do backlog serão desenvolvidos na Sprint e como será feito o trabalho para alcançá-los.
 
 ---
 ### Bloco 04: Scrum - Artefatos
